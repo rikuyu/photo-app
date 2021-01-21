@@ -5,7 +5,7 @@
 }
 
 input {
-  border: 3px solid #32e17c;
+  border: 3px solid #469cec;
   height: 40px;
   width: 250px;
   border-radius: 30px;
@@ -21,7 +21,7 @@ button {
   margin-left: 10px;
   width: 80px;
   height: 40px;
-  background-color: #32e17c;
+  background-color: #469cec;
   border-radius: 5px;
   border-style: none;
   color: white;
@@ -29,7 +29,7 @@ button {
 
 .container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 3%;
   margin-right: 50px;
   margin-left: 50px;
